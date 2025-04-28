@@ -6,6 +6,7 @@ This dashboard proves you don't need fancy tools to deliver 🔥 business insigh
 
 
 ![tryrtytr](https://github.com/user-attachments/assets/ca46425b-c421-474f-a7f0-1ff0dd526cbf)
+
 ![fsdfsd](https://github.com/user-attachments/assets/af88f3d9-9c81-4b31-8149-b96faa39908f)
 ## 📊 KPI Highlights
 ![Capture23232](https://github.com/user-attachments/assets/b30e168b-dff1-4cfe-8964-b92e6499d381)
