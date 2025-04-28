@@ -1,4 +1,4 @@
-# 📱 Egyptian Mobile Store - Sales & Profit Analysis
+# 📱 Egyptian Mobile Store Sales Analysis
 ![Excel | Power Query | Power Pivot | DAX | Data Analysis](https://img.shields.io/badge/-Excel-217346?logo=microsoftexcel&logoColor=white) ![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat&logo=powerbi) ![Power Pivot](https://img.shields.io/badge/Power_Pivot-5E2750?style=flat&logo=powerbi) ![DAX](https://img.shields.io/badge/DAX-FFB900?style=flat&logo=powerbi) ![Data Visualization](https://img.shields.io/badge/Data_Visualization-5E2750?style=flat&logo=tableau)
 
 <i><b>Only using Excel?</b> Hell yeah! </br>
