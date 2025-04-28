@@ -23,5 +23,5 @@ This dashboard proves you don't need fancy tools to deliver 🔥 business insigh
 3. **Profit Drivers**: Top-performing brands contribute Z% of total profit
 4. **Regional Patterns**
    
-## 👨‍💻 Author
+## Author
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin)]([Your_Profile_URL](https://www.linkedin.com/in/moatazelmesmary/))
